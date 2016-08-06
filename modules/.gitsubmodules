@@ -1,0 +1,3 @@
+[submodule "wso2base"]
+	path = wso2base
+	url = https://github.com/imesh/puppet-base
