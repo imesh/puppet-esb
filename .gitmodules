@@ -1,3 +1,3 @@
-[submodule "modules/puppet-base"]
-	path = modules/puppet-base
+[submodule "modules/wso2base"]
+	path = modules/wso2base
 	url = https://github.com/imesh/puppet-base
