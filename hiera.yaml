@@ -21,7 +21,7 @@
     - "vm_type/%{::vm_type}"
     - "platform/%{::platform}"
     - wso2/common
-    - common
+    - common2
 :backends:
     - yaml
 :yaml:
